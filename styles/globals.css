@@ -1,0 +1,107 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Playfair+Display&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Things that are easier to do in CSS rather than in Tailwind */
+
+::selection {
+  @apply bg-yellow-500 bg-opacity-80;
+}
+
+html {
+  scroll-behavior: smooth;
+  background-color: #1b1b1b;
+}
+
+.roadmap {
+  background-image: url("/sections/roadmap-bg.png");
+  background-color: #fbbf24;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.mission,
+.team-body {
+  background: #f2bf99;
+}
+
+#team {
+  @apply font-bangers text-7xl text-indigo-700 text-center pt-20;
+  background: #f2bf99;
+}
+
+/* Buttons */
+
+.yellow-button {
+  @apply font-bangers text-2xl xs:text-3xl rounded-3xl text-indigo-700 bg-yellow-400 
+  px-20 py-2 cursor-pointer hover:bg-opacity-60 focus-visible:bg-opacity-60
+   transition-all duration-150;
+}
+
+.purple-button {
+  @apply font-bangers text-xl rounded-3xl bg-indigo-700 text-yellow-400 
+  px-10 py-2 cursor-pointer hover:bg-opacity-60 focus-visible:bg-opacity-60
+  transition-all duration-150;
+}
+
+/* This makes sure that nav stays at correct level without implementing abstract parent class */
+.nav-margin {
+  margin-bottom: -430px;
+}
+
+.last-planet {
+  bottom: -350%;
+}
+
+.about {
+  bottom: -200%;
+}
+
+.background {
+  background: url("/sections/bg.svg");
+  background-size: cover;
+  z-index: -10;
+}
+
+.team-role {
+  font-size: 1rem;
+  letter-spacing: 1rem;
+}
+
+.nav-list-item {
+  background-image: linear-gradient(90deg, #fcd34d, #f59e0b);
+  background-size: 0% 3px;
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  transition: background-size 300ms ease;
+  cursor: pointer;
+  display: grid;
+  place-items: center;
+}
+
+.nav-list-item:hover,
+.nav-list-item:focus-visible {
+  background-size: 100% 3px;
+}
+
+@media screen and (min-width: 768px) {
+  .last-planet {
+    bottom: -200%;
+  }
+  .about {
+    bottom: -120%;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .nav-margin {
+    margin-bottom: -500px;
+  }
+
+  .nav-title {
+    font-size: 0.8rem;
+    letter-spacing: 0.85rem;
+  }
+}
