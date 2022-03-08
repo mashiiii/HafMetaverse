@@ -33,7 +33,7 @@ export default function Hero() {
       </section>
       <img
         className="hidden xl:block w-96 h-96 absolute top-1/2 -translate-y-1/2 right-56 rounded-3xl"
-        src="/dinos/dino.gif"
+        src="/dinos/dino.mp4"
         alt="Dino gif"
       />
     </>
