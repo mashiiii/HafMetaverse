@@ -5,7 +5,7 @@ const Footer = () => {
     <footer className="relative">
       <button className="yellow-button absolute top-1/3 right-1/2 translate-x-1/2 whitespace-nowrap">
         <a
-          href="https://discord.gg/nupgeU695Q"
+          href="https://discord.gg/DhRAHrm6Tu"
           rel="noreferrer"
           target="_blank"
         >
