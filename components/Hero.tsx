@@ -34,7 +34,7 @@ export default function Hero() {
       <video
         className="xl:block w-96 h-96 absolute top-1/2 -translate-y-1/2 right-56 rounded-3xl"
         src="/dinos/dino.mp4"
-        alt="Dino gif"
+        type="video/mp4"
       />
     </>
   );
