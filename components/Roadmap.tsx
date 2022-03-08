@@ -50,7 +50,7 @@ export default function Roadmap() {
         <div className="md:flex relative">
           <div className="hidden xl:block absolute translate-y-10 -translate-x-32 z-1">
             <Image
-              src={Angel}
+              src={Snip20211010_2}
               width={300}
               height={300}
               placeholder="blur"
