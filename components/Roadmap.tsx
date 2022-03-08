@@ -20,53 +20,6 @@ export default function Roadmap() {
         "Once La Puerca has successfully raised enough energy &amp; love from her different human friends, she will then go back to her CryptoPug World and spread all the good news throughout her planet. All the pugs will go insane and excited to go visit the place where La Puerca got so much love. Earth will go crazy with the visit of so many pugs licking all over the place! But not so many, only 600 of them will arrive with a lot of craziness and bulging eyes. Be ready!. The minting price will be set by the community on the discord channel.",
       ],
     },
-    {/*{
-      title: "",
-      percent: "",
-      description: [
-        "Phase 2: The different dogs and cats will take over the Metaverse with 1’000 unique pieces of each race randomly &amp; Breeding; 5 weeks after CryptoPug World ends the minting.",
-        "Not only Pugs but other races are excited to become part of this tribe; CryptoPitbulls World, CryptoVizlas World, CryptoBostonTerries World, CryptoGermanShepherds World, CryptoHuskys World, CryptoBeagles World, CryptoCats World, CryptoBirds World. Each race will be able to find its partner and give birth to a new and unique baby.",
-        "If you own a “La Puerca”, you will have a much better ROI on AGOD Finance NFT Staking platform.",
-        "The minting price will be set by the community on the discord channel.",
-      ],
-    },
-    {
-      title: "",
-      percent: "",
-      description: [
-        "Phase 3: Crossbreeding &amp; Hybrids",
-        "Wow! We have electric love in the air. Special and rare races coming to life. Only those with a specific set of accessories and personalities will be able to cross breed.",
-        "There will be accessories and add-on personalities that will be able to be minted in order to have a breed. As long as you own that particular set, you can potentially have a unique rareness.",
-        "5’000 cross breeding pets only. And whoever happens to own a La Puerca, will be able to Power-up their breeding force and procreate 2 babies at once.",
-        "???Buy an object to mix or breed???",
-      ],
-    },
-    {
-      title: "",
-      percent: "",
-      description: [
-        "Phase 4: Building Harmony Ark Foundation’s App; Ark App &amp; HAM Token",
-        "This is the ultimate goal where we will make our biggest effort on allowing technology to help &amp; support all animals across the world. Ark App is one of a kind app that will hold “Arkers” &amp; “Arkies”; Type of Users. Each role will play an important part for the development of the ecosystem. Arkies are the animals in the app, then they will be categorized by type, race, and other features.",
-        "The goal is to hold every animal owner and their pet friends no matter the type or race and become the next-gen of caring about the world.",
-        "Also! We will have a token that will be not only in-app economy but as an utility token that will be able to pair with another token on the AGOD Finance ecosystem to create passive income as staking &amp; farming. Also, HAM Token will be able to trade within the ark app for purchases, vendors, trade it for cash and much more!. Will be able to swap it for other tokens in the AGOD Finance Ecosystem &amp; lastly it will be the main trading economy for the Game in the next phase.",
-      ],
-    },
-    {
-      title: "",
-      percent: "",
-      description: [
-        "Phase 5: Harmony Ark Metaverse Game",
-        "Something truly unique is coming, be ready! Implementing your NFTs, the token and tradable rewards.",
-        "Arkers:",
-        "- Ark Drivers; Those who have the capacity to pick up and deliver an arkie (animal) from anywhere to a veterinarian, a vet, a bridge house, etc.",
-        "- Ark Spotters; Those who can help &amp; support but at that particular moment becomes almost choosing between going to work or a meeting, or saving an Arkie. So, the spotters will notify the Arkie on the system so an Ark Driver can continue with the task. Geolocations and other really cool features will be implemented.",
-        "- Ark Vets:",
-        "- Ark Hospital:",
-        "- Ark ….",
-        "- …..",
-        "- ….",
-      ],
-    },*/}
   ];
 
   const handlePhaseTwo = () => {
