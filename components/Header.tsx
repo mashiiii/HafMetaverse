@@ -19,9 +19,6 @@ const Header = () => {
         <li className="nav-list-item">
           <a href="#roadmap">ROADMAP</a>
         </li>
-        <li className="nav-list-item">
-          <a href="#team">TEAM</a>
-        </li>
       </ul>
     </header>
   );
