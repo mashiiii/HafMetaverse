@@ -1,7 +1,7 @@
 import Image from "next/image";
 import React from "react";
 import toast from "react-hot-toast";
-import Angel from "../public/dinos/Angel.png";
+import Snip20211010_2 from "../public/dinos/Snip20211010_2.png";
 
 export default function Roadmap() {
   const roadmap = [
