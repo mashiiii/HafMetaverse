@@ -20,7 +20,7 @@ export default function Roadmap() {
         "Once La Puerca has successfully raised enough energy &amp; love from her different human friends, she will then go back to her CryptoPug World and spread all the good news throughout her planet. All the pugs will go insane and excited to go visit the place where La Puerca got so much love. Earth will go crazy with the visit of so many pugs licking all over the place! But not so many, only 600 of them will arrive with a lot of craziness and bulging eyes. Be ready!. The minting price will be set by the community on the discord channel.",
       ],
     },
-    {*/{
+    {/*{
       title: "",
       percent: "",
       description: [
