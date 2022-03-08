@@ -21,7 +21,7 @@ export default function Hero() {
         HURRY UP
       </p>
       <section className="text-white w-screen h-screen flex flex-col justify-center z-1">
-      <h1 className="font-bangers text-2xl text-center md:text-left md:ml-20 lg:text-9xl">
+      <h1 className="font-bangers text-7xl text-center md:text-left md:ml-20 lg:text-7xl">
       HAF <span className="text-yellow-400">Metaverse</span>
             </h1>
 
