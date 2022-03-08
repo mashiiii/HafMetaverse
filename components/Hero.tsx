@@ -29,7 +29,7 @@ export default function Hero() {
           <button className="yellow-button" onClick={handleMint}>
             MINT SOON
           </button>
-          {*/<p className="text-sm font-roboto text-center mt-2">
+          {/*<p className="text-sm font-roboto text-center mt-2">
             0.07ETH | MAX 2 PER TRANSACTION
           </p>*/}
         </div>
