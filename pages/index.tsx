@@ -23,7 +23,6 @@ const Home = () => {
         <Hero />
         <Social />
         <Roadmap />
-        <Team />
         <Footer />
       </motion.div>
     </>
